@@ -206,4 +206,4 @@ This repository serves as the official landing page for Ad-Aware Total Security.
 **Get the most recent version of Ad-Aware Total Security today!**
 
 ---
-**Last updated:** 2026-11-11 01:42:57 UTC
+**Last updated:** 2026-11-11 08:51:07 UTC
